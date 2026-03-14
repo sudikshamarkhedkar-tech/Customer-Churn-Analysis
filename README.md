@@ -41,10 +41,15 @@ The solution uses Microsoft Power BI Desktop to import, clean, and analyze custo
 ⚙ Project Workflow
 
 1️⃣ Collect customer dataset
+
 2️⃣ Import dataset into Microsoft Power BI Desktop
+
 3️⃣ Clean and transform data using Power Query
+
 4️⃣ Create calculated columns and measures using DAX
+
 5️⃣ Build interactive dashboards and visualizations
+
 6️⃣ Analyze churn patterns and generate insights
 
 📈 Dashboard Insights
